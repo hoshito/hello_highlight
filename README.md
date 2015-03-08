@@ -1,2 +1,2 @@
 # hello_highlight
-highlight.jsお試し（https://highlightjs.org/）
+highlight.jsお試し https://highlightjs.org
